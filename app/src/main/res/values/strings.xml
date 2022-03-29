@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PTM-Roll-the-dice</string>
+    <string name="roll_result_text">Hello_world!</string>
+    <string name="roll_button_text">Roll!</string>
 </resources>
